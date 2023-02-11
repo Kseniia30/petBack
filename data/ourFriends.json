@@ -1,0 +1,92 @@
+[
+    {
+        "id": "1",
+        "title": "ЛКП “ЛЕВ”",
+        "time": "8:00- 19:00",
+        "url": "https://lkplev.com/",
+        "address": "79024, м.Львів, вул. Промислова 56",
+        "emeil": "lkplev@gmail.com",
+        "phone": "068 53-54-545 ",
+        "logo": "https://lkplev.com/images/logo.png"
+    },
+    {
+        "id": "2",
+        "title": "Барбос",
+        "time": "8:00- 20:00",
+        "url": "https://www.facebook.com/NGO.Barbos",
+        "address": "м.Ужгород, вулиця Загорська",
+        "emeil": "barbos@gmail.com",
+        "phone": "066 488 0480",
+        "logo": "https://scontent.fhrk7-1.fna.fbcdn.net/v/t39.30808-6/326350144_737815754224792_729367261117866878_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=pDC-MHQMQugAX9z0mKN&_nc_ht=scontent.fhrk7-1.fna&oh=00_AfCcK55v8uGo8Stjw36Lo6S11T5ZAba59RJF-epPGRxzhw&oe=63ECDBB6"
+    },
+    {
+        "id": "3",
+        "title": "Whiskas",
+        "time": null,
+        "url": "https://www.whiskas.ua/",
+        "address": null,
+        "emeil": "whiskas@gmail.com",
+        "phone": "0–800–500–155",
+        "logo": "https://www.whiskas.ua/sites/g/files/fnmzdf2126/files/whiskas-logo_0.png"
+    },
+    {
+        "id": "4",
+        "title": "Happy paw",
+        "time": "09:00- 19:00",
+        "url": "https://happypaw.ua/ua/",
+        "address": "м.Київ, вул. Шота Руставелі, 44, 3 поверх, оф. 7",
+        "emeil": "hello@happypaw.ua",
+        "phone": "+380 44 290-03-29",
+        "logo": "https://happypaw.ua/theme/images/logo.svg?1462804051"
+    },
+    {
+        "id": "5",
+        "title": "PetHelp",
+        "time": null,
+        "url": "https://pethelp.com.ua/",
+        "address": null,
+        "emeil": "pethelp.ukr@gmail.com",
+        "phone": null,
+        "logo": "https://pethelp.com.ua/images/logo3.png"
+    },
+    {
+        "id": "6",
+        "title": "Сіріус",
+        "time": "11:00- 16:00",
+        "url": "https://www.facebook.com/Shelter.SIRIUS",
+        "address": "07372, Київська обл., с. Федорівка, вул. Миру, 2",
+        "emeil": "dogcat.sirius@gmail.com",
+        "phone": "+38 093 193 40 69",
+        "logo": "https://scontent.fhrk7-1.fna.fbcdn.net/v/t1.6435-9/107181416_4661275287231201_8352137223468318118_n.png?_nc_cat=104&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=mly6v0vW0S8AX-neOUF&_nc_ht=scontent.fhrk7-1.fna&oh=00_AfAqqF1m8IPTtSIhzmW7xnpLFAiZHZ8wCgVU6eaebdtEiw&oe=640F1662"
+    },
+    {
+        "id": "7",
+        "title": "PURINA",
+        "time": null,
+        "url": "https://www.purina.ua/",
+        "address": null,
+        "emeil": "info@ua.nestle.com",
+        "phone": "0 800 50 09 50",
+        "logo": "https://www.purina.ua/sites/default/files/styles/medium/public/template/logos/logo_2.png?itok=Yqv7AFsX"
+    },
+    {
+        "id": "8",
+        "title": "Josera",
+        "time": "mon-fri 09:00 до 17:00",
+        "url": "https://josera.ua/",
+        "address": "79040, м.Львів, а/с 3939",
+        "emeil": "info@josera.ua",
+        "phone": "0 800 40 90 60",
+        "logo": "https://josera.ua/static/frontend/Magecom/josera/uk_UA/images/logo.svg"
+    },
+    {
+        "id": "9",
+        "title": "LICO",
+        "time": "mon -sun 09.00-20.00",
+        "url": "https://lico.vet/",
+        "address": "88000, Закарпатська обл., м. Ужгород, вул. Другетів 77",
+        "emeil": "lico@gmail.com",
+        "phone": "+38 099 516 3437",
+        "logo": "https://lico.vet/wp-content/uploads/2020/11/licoveterinary-e1605477412808.png"
+    }
+]
